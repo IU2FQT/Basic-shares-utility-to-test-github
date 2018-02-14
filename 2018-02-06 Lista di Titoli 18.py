@@ -5,6 +5,9 @@ Created on Mon Dec 18 12:42:21 2017
 @author: FP
 """
 
+# Aggiungo un commendo per vedere come funziona la branch di github
+
+
 # Load APIs
 import numpy as np
 import pandas as pd
